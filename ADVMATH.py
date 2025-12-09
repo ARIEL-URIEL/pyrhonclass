@@ -1,5 +1,1 @@
-import math as newMath
-
-me = 30
-print(me)
-
+print("come here")
